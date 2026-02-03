@@ -1,4 +1,6 @@
-**Dataset**
+**Problem Statement**
+
+To develop a machine learning model that accurately predicts an individual’s stress level based on multiple mental health, academic, and environmental factors.**Dataset**
 
 Type: Supervised Learning
 

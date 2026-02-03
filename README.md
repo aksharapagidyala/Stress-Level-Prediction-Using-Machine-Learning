@@ -2,13 +2,13 @@
 
 To develop a machine learning model that accurately predicts an individual’s stress level based on multiple mental health, academic, and environmental factors.**Dataset**
 
-Type: Supervised Learning
+**Type**: Supervised Learning
 
-Problem Type: Classification
+**Problem Type**: Classification
 
-Target Variable: stress_level
+**Target Variable**: stress_level
 
-Features Include:
+**Features Include:**
 
 Anxiety level
 
